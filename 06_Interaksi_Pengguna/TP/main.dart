@@ -30,15 +30,15 @@ class _BottomNavigationBarExampleState
   );
   static const List<Widget> _widgetOptions = <Widget>[
     Text(
-      'Ini Halaman beranda',
+      'Halaman beranda',
       style: optionStyle,
     ),
     Text(
-      'Ini Halaman Wisata',
+      'Halaman Wisata',
       style: optionStyle,
     ),
     Text(
-      'Ini Halaman Profile',
+      'Halaman Profile',
       style: optionStyle,
     ),
   ];
